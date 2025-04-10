@@ -37,14 +37,8 @@
 
 ### 🔥 Contributions & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushatree&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ayushatree&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
-
----
-
-### 🚀 Featured Projects
-- 🎨 [Design 1](https://github.com/ayushatree/Design-1) — Simple responsive design using HTML & CSS  
-- 🌐 [My Portfolio](https://ayushatree.github.io/portfolio/) — Check out my work and projects
 
 ---
 
